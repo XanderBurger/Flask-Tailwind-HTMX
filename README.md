@@ -1,4 +1,4 @@
-# info-punk
+# Flask - Tailwind - HTMX - Template
 
 start tailwind
 
